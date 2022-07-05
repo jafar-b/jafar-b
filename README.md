@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jafar!
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning machine learning.
+- 💞️ I’m looking to collaborate on machine learning projects.
+- 🛠  Have intermediate knowledge of Web Security and Ethical Hacking.
+- 🎓 Currently pursuing bachelors degree in IT from Finolex Academy of Management and Technology, Ratnagiri. 
