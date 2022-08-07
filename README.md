@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jafar!
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on machine learning projects.
-- 🛠  Have intermediate knowledge of Web Security and Ethical Hacking.
+- 🌱 I’m currently learning MERN.
+- 💞️ I’m looking to collaborate on MERN projects.
 - 🎓 Have completed my Diploma in Computer Engineering from Government Polytechnic Ratnagiri. 
