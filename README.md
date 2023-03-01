@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jafar!
-- 👀 I’m interested in data science.
+- 👀 I’m interested in data science and AI.
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on MERN projects.
 - 🎓 Pursuing bachelors from Finolex Academy of Management and Technology,Ratnagiri. 
