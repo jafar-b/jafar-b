@@ -8,7 +8,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafar-b&theme=gotham" alt="Streaks" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=jafar-b&theme=gotham&show_icons=true" alt="top Languages"width="50%"/>
   &nbsp;
- (https://visitcount.itsvg.in/api?id=jafar-b&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
   <img src="https://activity-graph.herokuapp.com/graph?username=jafar-b&theme=gotham" alt="Activity Graph"/>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=jafar-b&label=Profile%20Views&color=6&icon=0&pretty=false" />
